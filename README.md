@@ -32,7 +32,7 @@
 
 但是!! TG在Line推出這些功能前，早就已經有<font color="orange">*刪除*</font>(可以刪除自己裝置及對方裝置的訊息)及<font color="orange">*回覆*</font>功能了!<font color="red">它早先Line很多步，且還是把訊息刪得乾乾淨淨。</font>
 
-以及現在的「預覽查看訊息，但不顯示已讀」，在TG & Line皆有，但Line只能看到最新的一小部份訊息，而TG則可以在預覽訊息時，滑動查看先前的訊息。
+以及現在的「預覽查看訊息，但不顯示已讀」，在TG & Line皆有，但Line只能看到最新的一小部份訊息，而TG則可以在預覽訊息時，滑動查看先前的訊息。
 
 還有很重要的一點，Line有時傳檔案、圖片，當過了一個期限，就不讓我們再讀取，但TG卻是可以無限期的存取、查閱，就算加入新的群組，也能查看以前的訊息，完全不Loss任何資訊。
 
@@ -105,13 +105,13 @@
 
 2) 加入好友
     1) 使用手機號碼加入  <br>
-    <img src="./photo/add_friends.jpeg" width="30%">  
-    2) ID蒐尋  
-    <img src="./photo/add_friends2.jpeg" width="30%">  
-    「@」小老鼠開頭的方式蒐尋，可找到使用者、機器人、頻道  
-    <img src="./photo/add_friends2_1.jpeg" width="30%">  
-    3) 加入附近的人  
-    <img src="./photo/add_friends3.jpeg" width="30%"> 
+    <img src="./photo/add_friends.jpeg" width="30%">  <br>
+    2) ID蒐尋  <br>
+    <img src="./photo/add_friends2.jpeg" width="30%">  <br>
+    「@」小老鼠開頭的方式蒐尋，可找到使用者、機器人、頻道  <br>
+    <img src="./photo/add_friends2_1.jpeg" width="30%">  <br>
+    3) 加入附近的人  <br>
+    <img src="./photo/add_friends3.jpeg" width="30%"> <br>
 
 [⬆️top](#目錄)
 
