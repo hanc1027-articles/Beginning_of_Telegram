@@ -99,19 +99,19 @@
 
 1) 介面<font color="red">中文化</font>  
 這一個軟體是由俄國人發明，一開始進來設定也選不到「中文」，需要透過其他方式設定。  
-這裡教大家一個超級快速的方式，先訂閱[Telegram 中文](https://t.me/Tele_zh_TW)，然後滑到頻道最上面，找到「~《中文化連結》~」  
-<img src="./photo/telegram_Zh.PNG" width="50%">  
+這裡教大家一個超級快速的方式，先訂閱[Telegram 中文](https://t.me/Tele_zh_TW)，然後滑到頻道最上面，找到「《中文化連結》」  
+<img src="./photo/telegram_Zh.PNG" width="30%">  
 點下你需要的語言，即可設定完成，超級簡單!
 
 2) 加入好友
-    1) 使用手機號碼加入  
-    <img src="./photo/add_friends.jpeg" width="50%">  
+    1) 使用手機號碼加入  <br>
+    <img src="./photo/add_friends.jpeg" width="30%">  
     2) ID蒐尋  
-    <img src="./photo/add_friends2.jpeg" width="50%">  
+    <img src="./photo/add_friends2.jpeg" width="30%">  
     「@」小老鼠開頭的方式蒐尋，可找到使用者、機器人、頻道  
-    <img src="./photo/add_friends2_1.jpeg" width="50%">  
+    <img src="./photo/add_friends2_1.jpeg" width="30%">  
     3) 加入附近的人  
-    <img src="./photo/add_friends3.jpeg" width="50%"> 
+    <img src="./photo/add_friends3.jpeg" width="30%"> 
 
 [⬆️top](#目錄)
 
@@ -121,8 +121,8 @@
 - 私聊：同於Line的一對一聊天。
 - 群組：同於Line的群組聊天，但無需待對方同意，即時將對方加入群組。  
     不同於Line群組，TG附有管理員，可增減管理員、設定群組權限、群組公開與否。  
-    <img src="./photo/group_set1.jpeg" width="50%"> 
-    <img src="./photo/group_set2.jpeg" width="50%"> 
+    <img src="./photo/group_set1.jpeg" width="30%"> 
+    <img src="./photo/group_set2.jpeg" width="30%"> 
 - 機器人：提供許多附加功能，例如投票、設定提醒、製圖、玩遊戲等。
 - 頻道：類似於Line的Line@，可發佈訊息給有訂閱頻道的使用者。  
     不同於Line，可將訊息同步發佈至群組，新增至討論群。
@@ -138,7 +138,7 @@
 
 2) 完全刪除雙方裝置的訊息
     長按想刪除之訊息，點選「刪除」，這時會跑出兩個選項。  
-    <img src="./photo/delete_msg.PNG" width="50%">  
+    <img src="./photo/delete_msg.PNG" width="30%">  
     點選「從我和 x 的裝置刪除」，即可刪除雙方的訊息。
 
 3) 編輯發送出的文字  
@@ -147,13 +147,13 @@
 
 4) 計時銷毀訊息  
     點選聊天室右上角圖像。  
-    <img src="./photo/time_delete1.jpeg" width="50%">  
+    <img src="./photo/time_delete1.jpeg" width="30%">  
     點選「開始秘密聊天」。  
-    <img src="./photo/time_delete2.jpeg" width="50%">  
+    <img src="./photo/time_delete2.jpeg" width="30%">  
     點選輸入框旁的「計時器」。(最長可設置1週)  
-    <img src="./photo/time_delete3.jpg" width="50%">  
+    <img src="./photo/time_delete3.jpg" width="30%">  
     若在這個聊天室「截圖」，它也會顯示提示，讓對方得知你截圖了。  
-    <img src="./photo/time_delete4.jpg" width="50%">  
+    <img src="./photo/time_delete4.jpg" width="30%">  
 
 5) 可查看聊天室裡的媒體、檔案、連結、音訊  
     點選聊天室右上角圖像，點選「共享的媒體」，即可查閱。
@@ -162,12 +162,12 @@
     這裡有一個頻道，讓大家試試看。  
     [點我訂閱頻道](https://t.me/Chinesesong_mp3)  
     會看有許多音檔。  
-    <img src="./photo/music_chanel1.jpeg" width="50%">  
+    <img src="./photo/music_chanel1.jpeg" width="30%">  
     點選自己想聽的歌，會發現聊天室上方，出現了音樂播放狀態。  
-    <img src="./photo/music_chanel2.jpg" width="50%">  
+    <img src="./photo/music_chanel2.jpg" width="30%">  
     再點下狀態，即會看到這一個頻道的全部歌單，如同一般的音樂播放器，  
     且會自動將整個歌單播放完畢，跳出程式，音樂仍會在背景播放。  
-    <img src="./photo/music_chanel3.PNG" width="50%">
+    <img src="./photo/music_chanel3.PNG" width="30%">
 
 [⬆️top](#目錄)
 
