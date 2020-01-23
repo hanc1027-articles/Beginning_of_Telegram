@@ -188,7 +188,7 @@
     9) [@GroupButler_bot](https://t.me/GroupButler_bot) (群組管理)
     10) [@Jichou_bot](https://t.me/Jichou_bot) (記仇動圖製作)
     11) [@policr_bot](https://t.me/policr_bot) (群組管理)
-    12) [@TWBlackList_bot](https://t.me/TWBlackList_bot) (群組管理)
+    12) [@hexlightning_bot](https://t.me/hexlightning_bot) (群組管理)
     13) [@kunsu_bot](https://t.me/kunsu_bot) (動圖製作)
     14）[@utubebots](https://t.me/utubebots) （yt影片下載）
 
